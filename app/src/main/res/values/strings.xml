@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BWUconnect</string>
+    <string name="note">Note : This is an unofficial application</string>
+    <string name="des">
+        This application has been developed to provide college students with a convenient way to access all the necessary links required for their academic activities.
+
+The contents of this application are structured as follows:
+
+        Social
+This section includes all the links to our university\'s social media presence, such as LinkedIn, Twitter, Instagram, Facebook, and Flickr, enabling students to stay updated with the latest news and events from the university.
+
+        Study
+This section focuses on study-related links that students often use during college hours. It includes the BWULibrary, which provides a seamless way to check book availability in the library without physically visiting it.
+
+        Contacts
+This section features the contact information for university professors and academic calendar, allowing students to easily stay in touch with their instructors and stay up-to-date with academic schedules.
+    </string>
+    <string name="logo">BRAINWARE
+        UNIVERSITY</string>
+</resources>

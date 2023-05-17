@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/advent_pro_thin</item>
+        <item>@font/aladin</item>
+        <item>@font/alata</item>
+        <item>@font/aldrich</item>
+        <item>@font/alegreya_sans_sc_thin</item>
+        <item>@font/alegreya_sc</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/amarante</item>
+        <item>@font/amita</item>
+        <item>@font/antic</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/aubrey</item>
+        <item>@font/audiowide</item>
+        <item>@font/baumans</item>
+        <item>@font/bubblegum_sans</item>
+        <item>@font/carter_one</item>
+        <item>@font/caudex</item>
+        <item>@font/cinzel</item>
+        <item>@font/cinzel_decorative</item>
+        <item>@font/electrolize</item>
+        <item>@font/farro_light</item>
+        <item>@font/londrina_solid</item>
+        <item>@font/quando</item>
+        <item>@font/questrial</item>
+        <item>@font/rocknroll_one</item>
+        <item>@font/waiting_for_the_sunrise</item>
+    </array>
+</resources>
